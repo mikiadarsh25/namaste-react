@@ -1,6 +1,6 @@
-# Parcel Bundler: A Comprehensive Guide
+# [Parcel Bundler](https://parceljs.org/docs/): A Comprehensive Guide
 
-## What is a Bundle?
+## What is a [Bundle](https://medium.com/@gimenete/how-javascript-bundlers-work-1fc0d0caf2da#:~:text=A%20JavaScript%20bundler%20is%20a,handling%20dependencies%20in%20frontend%20code.)?
 A bundle is a deployable collection of your application's processed and optimized code and assets. When you build a modern web application, you typically have numerous JavaScript files, CSS, images, and other assets. Bundling:
 - Combines multiple files into fewer files
 - Optimizes code and assets for production
