@@ -65,11 +65,9 @@ Learning out Build Script Configuration and JSX
 - Babel
 
 ### Additional Resources
-- [React Element](https://github.com/mikiadarsh25/namaste-react/blob/02-Igniting-our-app/bundler.md](https://github.com/mikiadarsh25/namaste-react/blob/03-Laying-the-Foundation/reactElement.md)
-- [JSX](https://github.com/mikiadarsh25/namaste-react/blob/02-Igniting-our-app/bundler.md](https://github.com/mikiadarsh25/namaste-react/blob/03-Laying-the-Foundation/JSX.md)
-- [Babel](https://github.com/mikiadarsh25/namaste-react/blob/02-Igniting-our-app/bundler.md](https://github.com/mikiadarsh25/namaste-react/blob/03-Laying-the-Foundation/babel.md)
-
-
+- [React Element](https://github.com/mikiadarsh25/namaste-react/blob/03-Laying-the-Foundation/reactElement.md)
+- [JSX](https://github.com/mikiadarsh25/namaste-react/blob/03-Laying-the-Foundation/JSX.md)
+- [Babel](https://github.com/mikiadarsh25/namaste-react/blob/03-Laying-the-Foundation/babel.md)
 
 ## Quick Links
 - [Inception Source Code](https://github.com/mikiadarsh25/namaste-react/tree/00-Inception#readme)
