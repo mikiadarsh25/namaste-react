@@ -1,4 +1,4 @@
-# Complete Guide to (JSX)[https://legacy.reactjs.org/docs/introducing-jsx.html]
+# Complete Guide to [JSX](https://legacy.reactjs.org/docs/introducing-jsx.html)
 
 ## Table of Contents
 1. [What is JSX?](#what-is-jsx)
