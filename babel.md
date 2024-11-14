@@ -1,4 +1,4 @@
-# Complete Guide to Babel](https://babeljs.io/docs/)
+# Complete Guide to [Babel](https://babeljs.io/docs/)
 
 ## Table of Contents
 1. [What is Babel?](#what-is-babel)
