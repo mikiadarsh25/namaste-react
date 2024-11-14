@@ -1,4 +1,4 @@
-# Complete Guide to (React Elements)[https://legacy.reactjs.org/blog/2014/10/14/introducing-react-elements.html]
+# Complete Guide to [React Elements](https://legacy.reactjs.org/blog/2014/10/14/introducing-react-elements.html)
 
 ## Table of Contents
 1. [What are React Elements?](#what-are-react-elements)
