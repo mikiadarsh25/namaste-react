@@ -7,6 +7,7 @@ A comprehensive guide to learning React.js from the ground up.
 1. [Inception](#1-inception)
 2. [Starting from Scratch](#2-starting-from-scratch)
 3. [Igniting our App](#3-igniting-our-app)
+4. [Laying the Foundation](#-laying-the-foundation)
 
 ## 1. Inception
 Learn the fundamentals of adding React to your project.
@@ -54,9 +55,24 @@ Learn about bundling and optimization.
 ### Additional Resources
 - [Complete Bundler Guide](https://github.com/mikiadarsh25/namaste-react/blob/02-Igniting-our-app/bundler.md)
 
----
+## 3. Laying the Foundation
+Learning out Build Script Configuration and JSX
+
+### Topics Covered
+- Build Script Configuration
+- React Element
+- JSX
+- Babel
+
+### Additional Resources
+- [React Element](https://github.com/mikiadarsh25/namaste-react/blob/02-Igniting-our-app/bundler.md](https://github.com/mikiadarsh25/namaste-react/blob/03-Laying-the-Foundation/reactElement.md)
+- [JSX](https://github.com/mikiadarsh25/namaste-react/blob/02-Igniting-our-app/bundler.md](https://github.com/mikiadarsh25/namaste-react/blob/03-Laying-the-Foundation/JSX.md)
+- [Babel](https://github.com/mikiadarsh25/namaste-react/blob/02-Igniting-our-app/bundler.md](https://github.com/mikiadarsh25/namaste-react/blob/03-Laying-the-Foundation/babel.md)
+
+
 
 ## Quick Links
 - [Inception Source Code](https://github.com/mikiadarsh25/namaste-react/tree/00-Inception#readme)
 - [Starting from Scratch Tutorial](https://github.com/mikiadarsh25/namaste-react/tree/01-Starting-from-Scratch#readme)
 - [Igniting App Guide](https://github.com/mikiadarsh25/namaste-react/tree/02-Igniting-our-app#readme)
+- [Laying the Foundation](https://github.com/mikiadarsh25/namaste-react/blob/03-Laying-the-Foundation#readme)
